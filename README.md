@@ -6,7 +6,7 @@ With growing demands and cut-throat competitions in the market, a Superstore Gia
 Retail dataset of a global superstore for 4 years.
 
 📌 #### We chose to conduct our analysis using both Excel and Python
-> ITI Project.xlsx --> analysis using Excel
+> ITI Project.xlsx --> analysis using Excel<br>
 > super_store_analysis.ipynb --> analysis using python
 > Superstore Dashboard.xlsx --> Project dashboard
 > Raw Data F.xlsx --> data we used in our analysis
