@@ -1,17 +1,17 @@
 # Super-store-Project
 
-📌 ### Context
+### 📌 Context
 With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
 
 Retail dataset of a global superstore for 4 years.
 
-📌 #### We chose to conduct our analysis using both Excel and Python
+#### 📌 We chose to conduct our analysis using both Excel and Python
 > ITI Project.xlsx --> analysis using Excel<br>
 > super_store_analysis.ipynb --> analysis using python<br>
 > Superstore Dashboard.xlsx --> Project dashboard<br>
 > Raw Data F.xlsx --> data we used in our analysis<br>
 
-📌 ### Metadata
+### 📌 Metadata
 > Order ID => Unique Order ID for each Customer.
 
 > Order Date => Order Date of the product.
