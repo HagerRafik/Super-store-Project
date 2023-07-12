@@ -7,9 +7,9 @@ Retail dataset of a global superstore for 4 years.
 
 📌 #### We chose to conduct our analysis using both Excel and Python
 > ITI Project.xlsx --> analysis using Excel<br>
-> super_store_analysis.ipynb --> analysis using python
-> Superstore Dashboard.xlsx --> Project dashboard
-> Raw Data F.xlsx --> data we used in our analysis
+> super_store_analysis.ipynb --> analysis using python<br>
+> Superstore Dashboard.xlsx --> Project dashboard<br>
+> Raw Data F.xlsx --> data we used in our analysis<br>
 
 📌 ### Metadata
 > Order ID => Unique Order ID for each Customer.
